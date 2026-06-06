@@ -133,7 +133,7 @@ Even though it gave the answer correctly, it also suggested College of Law as an
 This was because of insufficient data. Because College of Law doesn’t explicitly mention requiring a Panther ID, it assumed it doesn’t require one. 
 
 **What you would change to fix it:**
-I would provide more resources that carries variety of information. 
+I would provide more resources that carries variety of information. I will also instruct the model to not assume things before giving additional responses. 
 
 ---
 
