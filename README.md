@@ -69,6 +69,7 @@ Most of my documents are pretty structured bulleted text paragraphs. Each around
 
 **Model used:**
 all-MiniLM-L6-v2 from Sentence Transformers
+
 **Production tradeoff reflection:**
 When choosing a model for a production deployment, I would choose a model that has bigger context window and scales better when working with large datasets. 
 
