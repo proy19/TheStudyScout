@@ -84,13 +84,10 @@ When choosing a model for a production deployment, I would choose a model that h
      the mechanism. -->
 
 **System prompt grounding instruction:**
-The Syetem is designed to only answer using the context provided.
+The System is instructed to only answer using the context provided.
 
 **How source attribution is surfaced in the response:**
-Example: (Out of scope) 
-Query: What are some study spots near New York University?
-Answer: There is no information provided about study spots near New York University. The context provided appears to be about study spots on a different campus, possibly Georgia Tech, but it does not mention New York University.
-Source: RamblerAtlanta.pdf, Odyssey.pdf
+The app lists sources with each response/query. If it can't find a response within the source, it will note it so. For example, I asked something out of scope like study spots near New York University. It returned "There is no information provided about study spots near New York University. The context provided appears to be about study spots on a different campus, possibly Georgia Tech, but it does not mention New York University"
 
 ---
 
@@ -136,7 +133,7 @@ Even though it gave the answer correctly, it also suggested College of Law as an
 This was because of insufficient data. Because College of Law doesn’t explicitly mention requiring a Panther ID, it assumed it doesn’t require one. 
 
 **What you would change to fix it:**
-I would provide more resources.
+I would provide more resources that carries variety of information. 
 
 ---
 
@@ -170,7 +167,7 @@ However, I had to install some additional packages that are not part of the requ
 
 **Instance 2**
 
-- I also asked AI to list some resources that contained the relevant information that I needed. Even thought I ended up using some of its suggestions, I also used some resources that I found online. 
+- I also asked AI to list some resources that contained the relevant information that I needed. Even though I ended up using some of its suggestions, I also used some resources that I found online that were more relevant. 
 
 ## Sample chunks: at least 5 labeled sample chunks, each with its source document name
 
