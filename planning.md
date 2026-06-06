@@ -107,10 +107,7 @@ all-MiniLM-L6-v2 has a short context window (256 tokens per chunk). In productio
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
-
-     ![alt text](/https://github.com/proy19/ai201-project1-unofficial-guide-starter/blob/d0a9b180ca1f6eca9b1ef2bc7ac11eaf521071b7/image.png)
-
----
+![diagram](https://github.com/proy19/ai201-project1-unofficial-guide-starter/blob/edc03305995f8e225a76782011d528f122589b11/image.png)
 
 ## AI Tool Plan
 
