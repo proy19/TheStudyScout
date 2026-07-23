@@ -15,11 +15,11 @@ Test Question #1:
 
 Test Question #2:
 
-<img width="800" height="520" alt="ezgif com-video-to-gif-converter (2)" src="https://github.com/user-attachments/assets/ba97e13b-be39-438e-9dfa-980a0bcd2998" />
+<img width="800" height="520" alt="ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/576646ae-aa9d-4ae0-99ec-e3f4097f45d7" />
 
 Test Question #3 (Error handling when a query isn't supported by data):
 
-<img width="800" height="520" alt="ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/576646ae-aa9d-4ae0-99ec-e3f4097f45d7" />
+<img width="800" height="520" alt="ezgif com-video-to-gif-converter (2)" src="https://github.com/user-attachments/assets/ba97e13b-be39-438e-9dfa-980a0bcd2998" />
 
 
 ## Document Sources
